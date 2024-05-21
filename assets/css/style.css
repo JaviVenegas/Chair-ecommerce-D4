@@ -157,6 +157,7 @@ img:hover{
 .product-info{
     padding: 1rem;
     font-size: 14px;
+    background-color: #fafafa;
 }
 
 .buy{
@@ -170,7 +171,7 @@ img:hover{
     border-radius: 5%;
     background-color: #1f2532 ;
     border: none;
-    color: white;
+    color: #fafafa;
 
 }
 .buy :hover{
@@ -179,7 +180,7 @@ img:hover{
 
 .cart button{
     border: none;
-    background-color: white;
+    background-color: #fafafa;
     color: #1f2532;
 }
 .product-info i:hover{
